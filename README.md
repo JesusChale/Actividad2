@@ -1,4 +1,5 @@
 # Actividad2
+Akinator
 De acuerdo con la base de datos proporcionada (animales.sql), desarrollar un programa que adivine que animal estás pensando. 
 El programa debe realizar una serie de preguntar para ir eliminando posibles selecciones. Una vez que se hayan eliminado suficientes, 
 dará como resultado aquel que no haya sido eliminado.  
